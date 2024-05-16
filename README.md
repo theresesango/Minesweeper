@@ -1,5 +1,5 @@
 # Therese's Minesweeper game
-==========================
+
 
 ## DEFINITION OF DONE:
 
@@ -14,7 +14,7 @@ From "Task.txt":
 7. "The program shall ask for coordinates until a bomb is encountered or all bombs have been uncovered" - Done!
 8. "Test cases that you feel are relevant can be added to the test project" - Done!
 
-===
+
 
 ## EPICS:
 
@@ -23,14 +23,14 @@ From "Task.txt":
 3. "The program will reveal the answer if the game has ended" - Done!
 4. "The program will tell if you entered a target that has already been revealed" - To do...
 
-===
+
 
 ## KNOWN BUGS:
 
 1. If the mine was hit, the game shall only render a "B" on the targeted position. 
 - But if the hit mine has an adjacent mine, it will also render a "B".
 
-===
+
 
 ## THE PROGRESS:
 It's been 7 years since I wrote any C#, and I definitely learned and relearned a lot!
