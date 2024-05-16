@@ -1,7 +1,7 @@
-Therese's Minesweeper game
+# Therese's Minesweeper game
 ==========================
 
-DEFINITION OF DONE:
+## DEFINITION OF DONE:
 
 From "Task.txt": 
 1. "Start with this sample project and expand" - Done!
@@ -16,7 +16,7 @@ From "Task.txt":
 
 ===
 
-EPICS:
+## EPICS:
 
 1. "The program will tell the user if they won" - Done!
 2. "The program will tell the user if they lost" - Done!
@@ -25,14 +25,14 @@ EPICS:
 
 ===
 
-KNOWN BUGS:
+## KNOWN BUGS:
 
 1. If the mine was hit, the game shall only render a "B" on the targeted position. 
 - But if the hit mine has an adjacent mine, it will also render a "B".
 
 ===
 
-THE PROGRESS:
+## THE PROGRESS:
 It's been 7 years since I wrote any C#, and I definitely learned and relearned a lot!
 
 Minesweeper.cs - I just wnted the clean Main() that initializes the game and where I could pass in the board size and amount of mines.
